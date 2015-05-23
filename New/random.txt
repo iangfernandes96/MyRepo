@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<head>
+	<style>
+	</style>
+</head>
+<body>
+	<h2>My favourite Rock N Roll bands</h2>
+	<p>Rock and roll is a genre of popular music that originated and evolved in the United States during the late 1940s, mostly from a combination of genres such as blues, jazz and country music.</p>
+	<p>Although, you have to keep in mind that rock n roll is a very broad genre, and is, in fact, subdivided into a few other genres.</p>
+	<p>This webpage offers you a brief history of rock n roll music along with a few bands who have been very prominent in this genre.</p>
+	<p>Here are some of the most prominent rock bands, that have contributed to a huge extent to the rock n roll genre </p>
+	<ul list-style-type:circle>
+		<li>
+			<p>
+				AC/DC:They are an Australian hard rock band, formed in 1973 by the brothers Angus and Malcolm Young, and are considered as the pioneers of hard metal and rock n roll.
+				The brothers, Angus and Malcolm developed the band name, after their sister saw the initials 'AC/DC' on a sewing machine. 
+				The brothers felt that this name symbolised the band's raw energy, power-driven performances of their music.
+				Currently, the band features Brian Johnson on the vocals, Angus and Stevie Young on the guitar, Chris Slade on the drums and Cliff Williams on the bass.
+				For more information on the band, click on the picture below.<br>
+				<a href="http://acdc.com"  target="_blank">
+					<img src="http://www.acdc.com/sites/acdc/files/imagecache/600wide_max/blackice.jpg" alt="The AC/DC official website" style="width:200px;height:150px">
+				</a>
+			</p>
+		</li>
+		
+		<li>
+			<p>
+				Guns N Roses:They are an American hard rock band formed in Los Angeles. They were actually formed by the collaboration of two bands, L.A.Guns and Hollywood Roses.
+				They've incorporated genres such as grunge rock, blues and even a little bit of reggae, which make them a band with very varied taste. 
+				However, members of the band began to leave from 1990, due to a lot of disagreements. 
+				The original line-up consisted of Axl Rose on the vocals, Slash and Izzy Stradlin on the lead and rhythm guitar respectively, bassist Duff McKagan and drummer Steven Adler.
+				For more information on the band, click on the picture below.<br>
+				<a href="http://www.gunsnroses.com" target="_blank">
+					<img src="http://www.supermusic.sk/obrazky/2595208_Guns_N_Roses_old%20photo.jpg" alt="Guns N Roses" style="width:200px;height:150px">
+				</a>
+			</p>
+		</li>
+		
+		<li>
+			<p>
+				The Rolling Stones:They are an English rock band formed in London in 1962. They were popular for their mix of genres such as rock, blues and even some jazz. 
+				This band was instrumental in making blues a major part of rock n roll, and also changing the international perspective of blues. 
+				They derive a lot of inspiration from the rebellious counter culture of the 1960s.
+				The first line-up consisted of Brian Jones and Keith Richards on the guitar, Mick Jagger on the vocals, Ian Stewart on the keyboard, Bill Wyman on the bass and Charlie Watts on the drums.
+				Click on the picture below for more information on the band.<br>
+				<a href="http://www.rollingstones.com" target="_blank">
+					<img src="http://www.pop-culture.biz/play/0361ST.jpg" alt="The Rolling Stones logo" style="width:200px;height:150px">
+				</a>
+			</p>
+		</li>
+	</ul>
+	<p>If you want to know more about upcoming rock events, please register below</p>
+	<form>
+		First Name:<br>
+		<input type="text" name="firstname">
+		<br>
+		Last Name:<br>
+		<input type="text" name="lastname">
+		Gender:
+		<input type="radio" name="sex" value="male" checked>Male
+		<br>
+		<input type="radio" name="sex" value="female">Female
+		<br>
+		<input type="radio" name="sex" value="other">Other
+		<br>
+		Email ID:
+		<input type="text" name=""emailid">
+		<br>
+	</form>
+	<p>Click below to submit</p>
+	<a href""
+</body>
